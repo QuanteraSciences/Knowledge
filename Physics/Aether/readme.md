@@ -1,4 +1,6 @@
+# Lorentz Ether
 - [Lorentz's Ether Unveiled: The Legacy And Controversies Of Einstein's Rival](https://youtu.be/iqAvgHJa7Yw)
+- [The Amazing Lorentz Ether Electron: Uncovering Its Concepts And Limitations](https://youtu.be/YWFNApQIiDk)
 
 # relation:
 ## Sagnac Effect
