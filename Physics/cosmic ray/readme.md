@@ -1,0 +1,3 @@
+- https://en.wikipedia.org/wiki/Greisen%E2%80%93Zatsepin%E2%80%93Kuzmin_limit
+- https://en.wikipedia.org/wiki/Ultra-high-energy_cosmic_ray
+-lhttps://en.wikipedia.org/wiki/Electronvolt#Energy_comparisons
